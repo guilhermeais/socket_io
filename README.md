@@ -1,0 +1,2 @@
+<h1 align="center">Meu primeiro contato com Socket.io🤔</h1> 
+<p align="center">Bom, já faz mais ou menos 1 ano que tenho contato com Node, principalmente com frameworks de Node como o Adonis, e até hoje eu não tinha realmente tentado fazer algo usando WebSockets, porém hoje, quis testar e ver como esse protocolo funciona e fiquei impressionado na facilidade de implementa-lo e usa-lo e como ele é divertido!</p>
